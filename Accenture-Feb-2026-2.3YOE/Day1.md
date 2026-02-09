@@ -266,15 +266,6 @@ Before Day 2:
 
 ---
 
-# Questions & Answers:
-
-Got it. I’ll give you **model interview answers** — the kind a **solid 3–5 YOE backend engineer** would give.
-Read them, then practice saying them **in your own words** (do NOT memorize verbatim).
-
-I’ll keep them **clear, structured, and defensible under follow-ups**.
-
----
-
 # ✅ DAY 1 — IDEAL INTERVIEW ANSWERS
 
 ---
